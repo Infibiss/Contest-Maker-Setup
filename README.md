@@ -8,7 +8,7 @@
 	- out.txt
 
 
-#### Instruction:
+#### *Instruction*:
 ##### 1. Choose the path, where folder with your contest will be created
 ##### 2. Name your contest
 ##### 3. Choose the number of problems and their names
