@@ -7,7 +7,6 @@
 	- in.txt
 	- out.txt
 
-
 #### *Instruction*:
 ##### 1. Choose the path, where folder with your contest will be created
 ##### 2. Name your contest
