@@ -12,12 +12,12 @@
 	1. Choose the path, where folder with your contest will be created
 	2. Name your contest
 	3. Choose the number of problems and their names
-	3.1 If you want to name your problems with letters(A, B, C...) or numbers(1, 2, 3...) -> choose the number of problems. 
-	3.2 If you want to name your problems with symbols write the symbols and the number of characters will be the number of problems
+		3.1 If you want to name your problems with letters(A, B, C...) or numbers(1, 2, 3...) -> choose the number of problems
+		Else write the symbols that will name them. The number of characters will be the number of problems
 
 #### Errors
 	Some causes of errors:
-	- You entered an empty string
+	- You entered an empty string or it consists only spaces
 	- You use wrong symbols in your string (< > : " . ! / \ | *)
 	- You entered a wrong or very big number of problems
 	- You didn't choose problems' names
